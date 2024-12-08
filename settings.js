@@ -1,35 +1,35 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
+//YouTube: 
+//Telegram: 
 //GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//WhatsApp: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
+//want more free bot scripts? subscribe to my WhatsApp channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
-global.ytname = "YT: GlobalTechInfo"
+global.ownernomer = "2348144038934"
+global.ownername = "Suxedo"
+global.ytname = "YT: TechTonic"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = 'TechTonic'  //creator number
+global.ownername = 'Suxedo' //owner name
+global.botname = 'TechTonicBug-V1' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: +2348144038934'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
